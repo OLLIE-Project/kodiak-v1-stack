@@ -14,7 +14,7 @@ stack and overview for the Kodiak v1
 **Kodiak v1** is the first iteration of a long-term effort to build a distributed data-processing framework focused on **context, verifiability, and ethical automation**.
 
 It’s designed to collect and transform heterogeneous information streams into durable, structured archives that can be analyzed and revisited with full traceability.  
-Every artifact that enters the system retains a cryptographic lineage — from initial acquisition to final analytical output.
+Every artifact that enters the system retains a cryptographic lineage - from initial acquisition to final analytical output.
 
 Kodiak doesn’t chase volume. It prioritizes **interpretability and reproducibility**, making it suitable for projects where reliability, provenance, and long-term access matter more than raw throughput.
 
@@ -63,6 +63,6 @@ It is **not** a tool for indiscriminate collection or exposure; its design enfor
 ---
 
 > **Status:**  
-> Kodiak v1 represents the *foundation* — the first functional iteration of an evolving system.  
+> Kodiak v1 represents the *foundation* - the first functional iteration of an evolving system.  
 > Future versions will expand analytical depth, scalability, and data-model sophistication while maintaining the same ethical and architectural principles.
 
